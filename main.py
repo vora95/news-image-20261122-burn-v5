@@ -13,7 +13,7 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "entry.png")
-EXPECTED_SHA256 = "e8e11dc60fab2f5bac1d2360e6617d74273edbac9dbf5593601bc838089ab6a8"
+EXPECTED_SHA256 = "93bdd9e85f069078eddbfd3419d0fb9e13a54483c61f8939ff1e5861e85c771c"
 
 
 def sha256_of(path):
